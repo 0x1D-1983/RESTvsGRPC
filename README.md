@@ -19,7 +19,7 @@ dotnet run
 ```
 
 ## Benchmark
-In a new Terminal, navigate to the folder GrpcAPI and
+In a new Terminal, navigate to the folder RESTvsGRPC and
 ```
 dotnet build -c Release
 dotnet run -c Release

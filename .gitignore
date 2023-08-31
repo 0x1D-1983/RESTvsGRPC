@@ -1,0 +1,11 @@
+bin/
+obj/
+.vscode/
+.vs/
+TestResults/
+AppCoverageReport/
+dotCover.Output/
+BenchmarkDotNet.Artifacts/
+AppCoverageReport.html
+dotCover.Output.html
+**/.DS_Store
